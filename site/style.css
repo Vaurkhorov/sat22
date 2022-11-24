@@ -1,0 +1,28 @@
+#main {
+    font-size: larger;
+}
+
+.navbar {
+    font-size: larger;
+}
+
+body {
+    margin-bottom: 50px;
+}
+
+.card {
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.4);
+}
+
+.card > * {
+    margin: 0px;
+}
+
+.cd-btn {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
